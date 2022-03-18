@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/Sonuex/Frontend-Mentor-QR-Code-Project](https://github.com/Sonuex/Frontend-Mentor-QR-Code-Project)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sonuex.github.io/Frontend-Mentor-QR-Challenge/](https://sonuex.github.io/Frontend-Mentor-QR-Challenge/)
 
 ## My process
 
